@@ -1,0 +1,5 @@
+{
+  "name": "EvalDashboard Pro",
+  "description": "A specialized dashboard for teachers to analyze exam results, categorize students by performance levels, and generate AI-powered reports.",
+  "requestFramePermissions": []
+}
